@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyualculate",
+        "uuid": 4689580,
+        "checksum": "9rteg"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
